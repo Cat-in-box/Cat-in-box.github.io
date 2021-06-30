@@ -16517,6 +16517,7 @@ div.u-video,
 
 .u-menu-close:hover {
   cursor: pointer;
+  color: #ffde7c;
 }
 
 .u-enable-responsive.u-offcanvas .u-sidenav {
@@ -31190,7 +31191,7 @@ a.u-button-style.u-button-style.active > .u-text-active-palette-2-base[class*="u
 .u-button-style:hover > .u-text-hover-palette-2-base svg,
 .u-button-style.u-button-style.active > .u-text-active-palette-2-base svg,
 .u-text-hover-palette-2-base:focus svg {
-  fill: #db545a;
+  fill: #ffde7c;
 }
 .u-link.u-text-palette-2-base:hover {
   color: #d63b42 !important;
